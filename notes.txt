@@ -1,0 +1,10 @@
+Introducing databases
+A database stores data. 
+A relational database defines relationships between tables of data inside the database.
+
+Database advantages
+    - More storage than spreadsheet applications.
+    - Storage is more secure.
+
+SQL stands for Structures Query Language
+    - It is the most widely used programming language, for creating querying and updating relational databases.

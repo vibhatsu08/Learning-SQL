@@ -8,3 +8,7 @@ Database advantages
 
 SQL stands for Structures Query Language
     - It is the most widely used programming language, for creating querying and updating relational databases.
+
+Introduction to tables
+    - Tables are organizes into rows and columns, rows are referred to as 'records' and columns are referred to as 'fields'.
+    - A table's fields are limited 
